@@ -49,5 +49,12 @@ Programın Çalışma Mantığı
 **Bulunan dik ucgen: 6-8-10
 **Bulunan ucgen sayisi: 2
 ---
+📌 AvPHW3 – Ödev 3
+
+Klasör İçeriği
+*main.c: main() fonksiyonu bu dosya içinde yer alır.
+*3.c: Ödev kapsamında kullanılan yardımcı fonksiyonları ve algoritma adımlarını içerir.
+*odev3.dev: Dev-C++ proje dosyasıdır. Programın IDE üzerinden kolayca açılıp çalıştırılmasını sağlar.
+---
 
 📅 *Bu repo ilerleyen günlerde diğer ödevlerle güncellenecektir.*
