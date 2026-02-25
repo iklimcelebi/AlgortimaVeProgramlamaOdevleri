@@ -28,26 +28,21 @@ Notlar
   * Girişler küçük harf (`t`, `k`, `m`) olarak alınmalıdır.
   * Derlenmiş dosyalar (`.exe`, `.o`) repo’ya eklenmemiştir.
 ---
+AvPHW2 – Ödev 2 - Kullanıcıdan alınan bir üst sınır (n) değerine kadar olan tüm dik üçgen kombinasyonları (Pisagor üçlüleri) bulan bir C programı.
+Programın Amacı: 1 ile n arasındaki tam sayıları kullanarak a^2 + b^2 = c^2 koşulunu sağlayan Tüm dik üçgen kenar uzunluklarını bulmak ve ekrana yazdırmak
 
-AvPHW2 – Ödev 2
-
-Kullanıcıdan alınan bir üst sınır (n) değerine kadar olan tüm dik üçgen kombinasyonları (Pisagor üçlüleri) bulan bir C programı.
----
-Programın Amacı
-1 ile n arasındaki tam sayıları kullanarak a^2 + b^2 = c^2 koşulunu sağlayan
-
-Tüm dik üçgen kenar uzunluklarını bulmak ve ekrana yazdırmak
----
 Programın Çalışma Mantığı
   *Kullanıcıdan bir n değeri alınır
   *Üç iç içe döngü ile a < b < c ≤ n olacak şekilde tüm kombinasyonlar denenir
   *Pisagor koşulunu sağlayan üçlüler ekrana yazdırılır
   *Bulunan toplam dik üçgen sayısı en sonda gösterilir
+  
 ---
 Örnek Çıktı
 **Bulunan dik ucgen: 3-4-5
 **Bulunan dik ucgen: 6-8-10
 **Bulunan ucgen sayisi: 2
+
 ---
 AvPHW3 – Ödev 3
 
@@ -71,12 +66,14 @@ ________________________________________
 Notlar
 •	Görev seçimleri küçük harf ile (a, b, c, d) yapılmalıdır.
 •	Derlenmiş dosyalar (.exe, .o) repo’ya eklenmemiştir.
+
 -----------------
 AvPHW4 – Ödev 4
 Bu program, kullanıcıdan 1–25 aralığında sayılar alır ve en az tekrar eden sayıyı ekrana yazdırır.
 Programın Amacı:
   *Kullanıcının girdiği sayılar arasında hangi sayının en az tekrar ettiğini bulmak.
   *Bu sayede istatistiksel olarak nadiren girilen sayıyı tespit etmek.
+  
 ------
 Programın Çalışma Mantığı:
   *Kullanıcıdan kaç adet sayı gireceği (n) alınır.
